@@ -1,0 +1,40 @@
+2025-09-06 23:50:10,722 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-09-06 23:50:10,769 INFO o.a.j.JMeter: Loading user properties from: C:\Users\USER\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\user.properties
+2025-09-06 23:50:10,769 INFO o.a.j.JMeter: Loading system properties from: C:\Users\USER\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3\bin\system.properties
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: Version 5.6.3
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: java.version=21.0.7
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: os.name=Windows 11
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: os.arch=amd64
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: os.version=10.0
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: java.awt.headless=null
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-09-06 23:50:10,785 INFO o.a.j.JMeter: Available Processors =12
+2025-09-06 23:50:10,807 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-09-06 23:50:10,807 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-09-06 23:50:10,807 INFO o.a.j.JMeter: JMeterHome=C:\Users\USER\Downloads\apache-jmeter-5.6.3\apache-jmeter-5.6.3
+2025-09-06 23:50:10,807 INFO o.a.j.JMeter: user.dir  =C:\Users\USER\Desktop\nz\demoney
+2025-09-06 23:50:10,807 INFO o.a.j.JMeter: PWD       =C:\Users\USER\Desktop\nz\demoney
+2025-09-06 23:50:10,817 INFO o.a.j.JMeter: IP: 192.168.1.116 Name: DESKTOP-9HLOI7T FullName: DESKTOP-9HLOI7T
+2025-09-06 23:50:10,849 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-09-06 23:50:11,119 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-09-06 23:50:22,203 INFO o.a.j.s.FileServer: Default base='C:\Users\USER\Desktop\nz\demoney'
+2025-09-06 23:50:22,219 INFO o.a.j.g.a.Load: Loading file: C:\Users\USER\Desktop\nz\demoney\dmoney.jmx
+2025-09-06 23:50:22,219 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Desktop\nz\demoney'
+2025-09-06 23:50:22,551 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-09-06 23:50:22,631 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-09-06 23:50:22,631 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-09-06 23:50:22,631 INFO o.a.j.s.SaveService: Loading file: C:\Users\USER\Desktop\nz\demoney\dmoney.jmx
+2025-09-06 23:50:22,695 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-09-06 23:50:22,695 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-09-06 23:50:22,695 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-09-06 23:50:22,695 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-09-06 23:50:22,695 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-09-06 23:50:22,695 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-09-06 23:50:24,112 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-09-06 23:50:24,112 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-09-06 23:50:24,112 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-09-06 23:50:24,112 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-09-06 23:50:24,413 INFO o.a.j.s.FileServer: Set new base='C:\Users\USER\Desktop\nz\demoney'
